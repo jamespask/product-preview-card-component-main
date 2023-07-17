@@ -20,7 +20,7 @@ body {
   width: 100%;
 }
 
-.main {
+.container {
   align-items: center;
   display: flex;
   justify-content: center;
@@ -125,7 +125,7 @@ h1 {
 }
 
 @media (max-width: 750px) {
-  .main {
+  .container {
     align-items: center;
     display: flex;
     justify-content: center;
